@@ -1,8 +1,8 @@
+![image](https://github.com/AdrianaSanjuan/GradientBoosting_WineClassification_Wandb/assets/146115600/9500a4ab-0748-4f46-a1b7-62ccf9ceda29)
+
+
 # GradientBoosting_WineClassification_Wandb
 This repository contains an experimentation project for the Data Science class at Upgrade Hub. We utilize Weights & Biases to systematically tune and evaluate the hyperparameters of a Gradient Boosting Classifier. The dataset we are working with is the Wine dataset.
-
-## About Upgrade Hub
-Upgrade Hub is an educational institution dedicated to offering high-quality training programs in technology and data science.
 
 ## Results
 The experimentation results can be viewed in detail on the Weights & Biases dashboard. This includes various performance metrics such as accuracy, along with the hyperparameters used for each experiment.
